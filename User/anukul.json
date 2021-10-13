@@ -1,0 +1,13 @@
+{
+	"name": "cat images",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"browser_action": {
+		"defult_popup": "popup.html",
+		"defult_icon": "clogo.png"
+	},
+	"icons": {
+		"128": "clogo.png"
+	},
+	"permissions":["ActiveTab"]
+}
